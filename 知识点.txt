@@ -1,0 +1,16 @@
+路由（重点）
+http://react-guide.github.io/react-router-cn/docs/Introduction.html
+
+路由三个核心模块包
+react-router   路由核心功能
+react-router-dom   包含了dom相关的路由模块，说明比核心模块功能更强大
+react-router-native  原生模块包  一般供andiord和ios开发者使用
+
+1、安装路由模块包
+npm i react-router-dom     yarn add react-router-dom
+
+
+内置标签
+HashRouter  BrowserRouter  路由模式      hash模式   history模式
+Routes Route  配置路由，并充当路由容器
+Link NavLink  进行页面跳转
